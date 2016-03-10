@@ -109,4 +109,4 @@ Some situations that may be problematic include:
 - Having older (or multiple) MinGW installs on your PATH (check: type "where c++" or "where gcc" into msys2)
 - Having older (or multiple) cmake installs on your PATH (check: "where cmake" and "cmake --version")
 - Having multiple BLAS libraries on your PATH (check: "where libopenblas.dll", "where libblas.dll" and "where liblapack.dll")
-
+- Update your JDK to 8u74 
